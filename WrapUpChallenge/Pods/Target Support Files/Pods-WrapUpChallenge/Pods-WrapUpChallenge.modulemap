@@ -1,0 +1,6 @@
+framework module Pods_WrapUpChallenge {
+  umbrella header "Pods-WrapUpChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
